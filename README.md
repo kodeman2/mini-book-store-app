@@ -1,2 +1,2 @@
 # mini-bookstore-app
-bookstore app example using javascript DOM manipulation
+bookstore app example using Javascript DOM manipulation
